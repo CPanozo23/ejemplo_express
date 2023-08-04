@@ -1,0 +1,1 @@
+[{"id":1,"nombre":"guitarra","modelo":"asd","precio":109990,"cantidad":5},{"id":2,"nombre":"batería","modelo":"fgh","precio":509990,"cantidad":10},{"id":3,"modelo":"jkl","precio":59990,"cantidad":3},{"id":4,"nombre":"violin","modelo":"qwerty","precio":159990,"cantidad":10},{"id":5,"modelo":"qwerty","precio":159990,"cantidad":10}]
